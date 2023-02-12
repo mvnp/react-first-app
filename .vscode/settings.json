@@ -1,0 +1,12 @@
+{
+    "editor.matchBrackets": "never",
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": false,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#ff006ab5"
+    }
+}
